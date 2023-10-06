@@ -1,0 +1,34 @@
+# Archivos y carpetas generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta o archivo específico que deseas omitir
+mi_carpeta/
+mi_archivo.txt
+
+# Carpetas generadas por entornos de desarrollo o IDEs
+.idea/
+.vscode/
+
+# Dependencias y archivos generados por gestores de paquetes
+node_modules/
+vendor/
+npm-debug.log
+yarn-error.log
+
+# Archivos de compilación o construcción
+build/
+dist/
+*.class
+
+# Archivos de configuración personalizados
+config.ini
+config.yml
+
+# Archivos de registro
+log/
+*.log
+
+# Archivos de respaldo
+*.bak
+*.swp
